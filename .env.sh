@@ -1,0 +1,1 @@
+echo -n "postgresql://postgres:postgres@localhost:5432/main" | docker secret create db_url -
