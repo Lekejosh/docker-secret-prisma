@@ -4,8 +4,8 @@ This repository provides an example of how to securely pass your `DATABASE_URL` 
 
 ## Article Details
 - **Author:** Adeleke Joshua A.
-- **Date:** 2024/05/27
-- **Medium Article Link:** [Link](https://lekejosh.medium.com/building-a-scalable-node-js-backend-separating-request-handling-and-background-jobs-eca17209fbcb)
+- **Date:** 2024/05/26
+- **Medium Article Link:** [Link](https://lekejosh.medium.com/docker-swarm-prisma-docker-secret-846adc9107c9)
 
 ## Quick Start
 
@@ -101,8 +101,8 @@ secrets:
 docker stack deploy -c docker-compose.yml demo
 ```
 
-For detailed instructions, visit the [full article on Medium](https://medium.com/).
+For detailed instructions, visit the [full article on Medium](https://lekejosh.medium.com/docker-swarm-prisma-docker-secret-846adc9107c9).
 
 ---
 
-This minimal setup will get you started with securely passing your `DATABASE_URL` to a Prisma backend using Docker Swarm and Docker Secrets. For a comprehensive guide, please refer to the [full article on Medium](https://medium.com/).
+This minimal setup will get you started with securely passing your `DATABASE_URL` to a Prisma backend using Docker Swarm and Docker Secrets. For a comprehensive guide, please refer to the [full article on Medium](https://lekejosh.medium.com/docker-swarm-prisma-docker-secret-846adc9107c9).
